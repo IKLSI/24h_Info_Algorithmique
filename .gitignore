@@ -1,0 +1,7 @@
+# Empêche le dépôt de fichiers .DS_Store
+
+.DS_Store
+
+# Empêche le dépôt du répértoire bin
+
+bin/
